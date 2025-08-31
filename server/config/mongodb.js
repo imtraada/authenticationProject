@@ -4,7 +4,7 @@ const connectDB = async () => {
 
     mongoose.connection.on('connected', ()=>console.log("database connected"));
 
-    await mongoose.connect(`${process.env.MONGODB_URL}/mernAuth`);
+    await mongoose.connect(`${process.env.MONGODB_URL}/mernaut`);
 };
 
 export default connectDB;
