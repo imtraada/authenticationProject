@@ -16,6 +16,17 @@ Server backend untuk aplikasi autentikasi menggunakan stack MERN (MongoDB, Expre
 - **cookie-parser**: Parsing cookie untuk JWT token
 - **nodemon** (dev dependency): Auto-restart server saat kode berubah
 
+[![npm version](https://img.shields.io/npm/v/express.svg)](https://www.npmjs.com/package/express)
+[![npm version](https://img.shields.io/npm/v/cors.svg)](https://www.npmjs.com/package/cors)
+[![npm version](https://img.shields.io/npm/v/dotenv.svg)](https://www.npmjs.com/package/dotenv)
+[![npm version](https://img.shields.io/npm/v/nodemon.svg)](https://www.npmjs.com/package/nodemon)
+[![npm version](https://img.shields.io/npm/v/jsonwebtoken.svg)](https://www.npmjs.com/package/jsonwebtoken)
+[![npm version](https://img.shields.io/npm/v/mongoose.svg)](https://www.npmjs.com/package/mongoose)
+[![npm version](https://img.shields.io/npm/v/bcryptjs.svg)](https://www.npmjs.com/package/bcryptjs)
+[![npm version](https://img.shields.io/npm/v/nodemailer.svg)](https://www.npmjs.com/package/nodemailer)
+[![npm version](https://img.shields.io/npm/v/cookie-parser.svg)](https://www.npmjs.com/package/cookie-parser)
+
+
 ---
 
 ## Instalasi
