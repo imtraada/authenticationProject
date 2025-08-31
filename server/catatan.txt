@@ -1,2 +1,17 @@
 npm init
 npm i express cors dotenv nodemon jsonwebtoken mongoose bcryptjs nodemailer cookie-parser
+
+cek api auth postman
+url post {
+    http://localhost:4000/api/auth/register
+    http://localhost:4000/api/auth/login
+    http://localhost:4000/api/auth/logout
+}
+pilih body -> raw 
+{ 
+    "name": "admin1",
+    "email": "admin1@mail.com",
+    "password": "123456"
+}
+send
+
