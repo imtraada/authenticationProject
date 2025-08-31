@@ -21,20 +21,20 @@ Server backend untuk aplikasi autentikasi menggunakan stack MERN (MongoDB, Expre
 ## Instalasi
 
 1. Clone repository ini
-   git clone https://github.com/username/mern-auth.git
+   git clone https://github.com/imtraada/authenticationProject.git
    cd mern-auth/server
    
-3. install dependensi
+2. install dependensi
 npm install express cors dotenv nodemon jsonwebtoken mongoose bcryptjs nodemailer cookie-parser
 
-4. buat file .env di folder server
+3. buat file .env di folder server
 PORT=4000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret_key
 SENDER_EMAIL=your_email@example.com
 EMAIL_PASSWORD=your_email_password
 
-6. menjalankan server
+4. menjalankan server
 npm run dev
 pastikan package.json
 "scripts": {
@@ -42,4 +42,4 @@ pastikan package.json
 }
 
 
-semoga membantu
+semoga membantu 👍👍👍👍👍👍👍👍
