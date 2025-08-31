@@ -16,15 +16,15 @@ Server backend untuk aplikasi autentikasi menggunakan stack MERN (MongoDB, Expre
 - **cookie-parser**: Parsing cookie untuk JWT token
 - **nodemon** (dev dependency): Auto-restart server saat kode berubah
 
-[![express version](https://img.shields.io/npm/v/express.svg)](https://www.npmjs.com/package/express)
-[![cors version](https://img.shields.io/npm/v/cors.svg)](https://www.npmjs.com/package/cors)
-[![dotenv version](https://img.shields.io/npm/v/dotenv.svg)](https://www.npmjs.com/package/dotenv)
-[![nodemon version](https://img.shields.io/npm/v/nodemon.svg)](https://www.npmjs.com/package/nodemon)
-[![jsonwebtoken version](https://img.shields.io/npm/v/jsonwebtoken.svg)](https://www.npmjs.com/package/jsonwebtoken)
-[![mongoose version](https://img.shields.io/npm/v/mongoose.svg)](https://www.npmjs.com/package/mongoose)
-[![bcryptjs version](https://img.shields.io/npm/v/bcryptjs.svg)](https://www.npmjs.com/package/bcryptjs)
-[![nodemailer version](https://img.shields.io/npm/v/nodemailer.svg)](https://www.npmjs.com/package/nodemailer)
-[![cookie-parser version](https://img.shields.io/npm/v/cookie-parser.svg)](https://www.npmjs.com/package/cookie-parser)
+[![express version](https://img.shields.io/npm/v/express.svg?label=express)](https://www.npmjs.com/package/express)
+[![cors version](https://img.shields.io/npm/v/cors.svg?label=cors)](https://www.npmjs.com/package/cors)
+[![dotenv version](https://img.shields.io/npm/v/dotenv.svg?label=dotenv)](https://www.npmjs.com/package/dotenv)
+[![nodemon version](https://img.shields.io/npm/v/nodemon.svg?label=nodemon)](https://www.npmjs.com/package/nodemon)
+[![jsonwebtoken version](https://img.shields.io/npm/v/jsonwebtoken.svg?label=jsonwebtoken)](https://www.npmjs.com/package/jsonwebtoken)
+[![mongoose version](https://img.shields.io/npm/v/mongoose.svg?label=mongoose)](https://www.npmjs.com/package/mongoose)
+[![bcryptjs version](https://img.shields.io/npm/v/bcryptjs.svg?label=bcrypts)](https://www.npmjs.com/package/bcryptjs)
+[![nodemailer version](https://img.shields.io/npm/v/nodemailer.svg?label=nodemailer)](https://www.npmjs.com/package/nodemailer)
+[![cookie-parser version](https://img.shields.io/npm/v/cookie-parser.svg?label=cookie-parser)](https://www.npmjs.com/package/cookie-parser)
 
 
 ---
