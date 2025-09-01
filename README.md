@@ -4,7 +4,7 @@ Server backend untuk aplikasi autentikasi menggunakan stack MERN (MongoDB, Expre
 
 ---
 
-## Teknologi yang Digunakan
+## Teknologi Backend yang Digunakan
 
 - **Express**: Framework backend Node.js untuk membangun API
 - **Mongoose**: ODM untuk MongoDB
