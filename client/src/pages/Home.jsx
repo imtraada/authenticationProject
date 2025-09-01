@@ -1,9 +1,12 @@
 import React from "react";
+import Navbar from "../components/Navbar";
+import Header from "../components/Header";
 
 const Home = () => {
   return (
-    <div className="h-screen flex items-center justify-center bg-gray-100">
-      <h1 className="text-4xl font-bold text-blue-600">Welcome to the Home Page</h1>
+    <div className="flex flex-col items-center justify-center min-h-screen bg-[(/bg_img.png)] bg-cover bg-center ">
+        <Navbar />
+        <Header />
     </div>
   )
 }
