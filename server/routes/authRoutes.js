@@ -14,7 +14,7 @@ authRouter.post('/send-verify-otp', userAuth, sendVerifyOtp);
 authRouter.post('/verify-account', userAuth, verifyEmail);
 
 // step 3
-authRouter.post('/is-auth', userAuth, isAutenticated);
+authRouter.get('/is-auth', userAuth, isAutenticated);
 
 // step 4
 authRouter.post('/send-reset-otp', sendResetOpt);
